@@ -2,7 +2,7 @@ const products = [
   {
     id: 1,
     name: "Razer Huntsman V2",
-    price: 210.0,
+    price: 210,
     image:
       "https://hyperpc.ru/images/catalog/accessories/keyboard/razer/huntsman-v2-tkl/razer-huntsman-v2-tkl.jpg",
     description: "",
@@ -10,7 +10,7 @@ const products = [
   {
     id: 2,
     name: "NVIDIA GeForce RTX 5090",
-    price: 1999.0,
+    price: 1999,
     image: "https://overclockers.ru/st/r/800/-/legacy/blog/430440/619522_O.png",
     description: "",
   },

@@ -18,6 +18,7 @@
   src: url("./fonts/ChironGoRoundTC-ExtraBold.ttf");
 }
 
-body {
+html {
   font-family: chiron-r;
+  overflow-y: scroll;
 }

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function ProductCard({ product }) {
   return (
     <div className=" rounded-xl overflow-hidden shadow">
-      <img src={product.image} />
+      <img src={product.image} alt={product.name} />
       <div className="bg-white p-4 flex flex-col gap-3">
         <h3 className="font-[chiron-sb] text-lg truncate">{product.name}</h3>
         <p className="text-xl font-[chiron-eb] text-purple-500">
